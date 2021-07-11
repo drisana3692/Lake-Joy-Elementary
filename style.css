@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient( #afccfa, #7fbef5, #033969);
+    background: linear-gradient( #afccfa, #7fbef5, #326da8, #033969);
 }
 .my_nav_bar {
     position: sticky;
@@ -36,7 +36,7 @@ h3 {
     color: lawngreen;
 }
 h4 {
-    color: lavender;
+    color: lightgreen;
 }
 h5 {
     color: tomato
@@ -81,3 +81,29 @@ p {
 .free {
     text-align: center;
 }
+#star1 {
+    height: 145px;
+    padding-top: 1px;
+}
+#star2 {
+    padding-top: 1px;
+    height: 147px;
+    width: 990px;
+}
+#star3 {
+    padding-top: 1px;
+    width: 990px;
+    height: 149px;
+}
+#star3edit {
+    width: 570px;
+}
+#footer {
+    height: 20px;
+    background-color: white;
+}
+    #logo{ 
+    	position:fixed; 
+    	top:0; 
+    	left:0;
+    } 
